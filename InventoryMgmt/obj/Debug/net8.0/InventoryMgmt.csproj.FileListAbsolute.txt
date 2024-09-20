@@ -1,0 +1,17 @@
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\InventoryMgmt.exe
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\InventoryMgmt.deps.json
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\InventoryMgmt.runtimeconfig.json
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\InventoryMgmt.dll
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\InventoryMgmt.pdb
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.csproj.AssemblyReference.cache
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.AssemblyInfoInputs.cache
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.AssemblyInfo.cs
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\Inventor.23DCB01D.Up2Date
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.dll
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\refint\InventoryMgmt.dll
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.pdb
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\InventoryMgmt.genruntimeconfig.cache
+C:\Users\Xavier\Desktop\Ellinov Technologies Assessment\inventory_mgmt-main\inventory_mgmt-main\InventoryMgmt\obj\Debug\net8.0\ref\InventoryMgmt.dll
